@@ -79,8 +79,8 @@ int main() {
 	printf("======================================================================\n");
 	printf("\n");
 	printf("   		    -------------------------- \n");
-    printf("   		    |   PROGRAM DATA MUSIK   |\n");
-    printf("   		    -------------------------- \n\n");
+    	printf("   		    |   PROGRAM DATA MUSIK   |\n");
+    	printf("   		    -------------------------- \n\n");
 	
 Musik M;
 
